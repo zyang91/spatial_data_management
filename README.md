@@ -15,3 +15,10 @@ Feel free to utilize the resources provided
 
 ![](results/lab6/Screenshot%202024-05-31%20203935.jpg)
 ![](results/lab4/Screenshot%202024-05-23%20164235.jpg)
+
+## Software and learning outcome
+
+`geemap`
+`Duckdb`
+`leafmap`
+...
