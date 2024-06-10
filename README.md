@@ -25,3 +25,7 @@ Feel free to utilize the resources provided
 
 
 Updated soon
+
+## Github Link and more info
+
+Github link: [https://github.com/zyang91/spatial_data_management](https://github.com/zyang91/spatial_data_management)
