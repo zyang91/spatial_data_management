@@ -1,14 +1,16 @@
 # Spatial data management Course summarize and notes
 
+<img src="images/logo.png" alt="drawing" width="200"/>
 
-![](logo.jpg)
-
+<img src="images/DuckDB_Logo.png" alt="drawing" width="200"/>
 
 Created by Zhanchao Yang
 
-Credit: Geemap, leafmap, and Dr. Qiusheng Wu online courses
 
-Feel free to utilize the resources provided
+
+Credit: Geemap, leafmap, Duckdb, and Dr. Qiusheng Wu online courses
+
+
 
 
 ## Outcome
