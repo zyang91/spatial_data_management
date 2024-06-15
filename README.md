@@ -8,8 +8,6 @@ Created by Zhanchao Yang
 
 Credit: Geemap, leafmap, and Dr. Qiusheng Wu online courses
 
-Feel free to utilize the resources provided
-
 
 ## Outcome
 
