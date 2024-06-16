@@ -1,0 +1,114 @@
+{"country":"USA","id":115.0,"latitude":13.47002,"longitude":144.75002,"name":"Agana","population":122411.0,"geometry":"POINT (144.75002 13.47002)"}
+{"country":"USA","id":124.0,"latitude":34.12038,"longitude":-117.30003,"name":"San Bernardino","population":1745000.0,"geometry":"POINT (-117.30003 34.12038)"}
+{"country":"USA","id":125.0,"latitude":41.17998,"longitude":-73.19996,"name":"Bridgeport","population":1018000.0,"geometry":"POINT (-73.19996 41.17998)"}
+{"country":"USA","id":126.0,"latitude":43.17043,"longitude":-77.61995,"name":"Rochester","population":755000.0,"geometry":"POINT (-77.61995 43.17043)"}
+{"country":"USA","id":160.0,"latitude":48.60113,"longitude":-93.41085,"name":"International Falls","population":15240.0,"geometry":"POINT (-93.41085 48.60113)"}
+{"country":"USA","id":161.0,"latitude":44.94399,"longitude":-93.08497,"name":"St. Paul","population":734854.0,"geometry":"POINT (-93.08497 44.94399)"}
+{"country":"USA","id":162.0,"latitude":45.7883,"longitude":-108.54,"name":"Billings","population":104552.0,"geometry":"POINT (-108.54 45.7883)"}
+{"country":"USA","id":163.0,"latitude":47.50029,"longitude":-111.29999,"name":"Great Falls","population":66558.0,"geometry":"POINT (-111.29999 47.50029)"}
+{"country":"USA","id":164.0,"latitude":46.87224,"longitude":-113.99305,"name":"Missoula","population":72856.0,"geometry":"POINT (-113.99305 46.87224)"}
+{"country":"USA","id":165.0,"latitude":48.23249,"longitude":-101.29582,"name":"Minot","population":39439.0,"geometry":"POINT (-101.29582 48.23249)"}
+{"country":"USA","id":166.0,"latitude":46.87723,"longitude":-96.78943,"name":"Fargo","population":162842.0,"geometry":"POINT (-96.78943 46.87723)"}
+{"country":"USA","id":167.0,"latitude":19.7,"longitude":-155.09003,"name":"Hilo","population":52391.0,"geometry":"POINT (-155.09003 19.7)"}
+{"country":"USA","id":168.0,"latitude":47.03804,"longitude":-122.89943,"name":"Olympia","population":156984.0,"geometry":"POINT (-122.89943 47.03804)"}
+{"country":"USA","id":169.0,"latitude":47.67,"longitude":-117.41995,"name":"Spokane","population":347705.0,"geometry":"POINT (-117.41995 47.67)"}
+{"country":"USA","id":170.0,"latitude":45.6303,"longitude":-122.63999,"name":"Vancouver","population":525802.0,"geometry":"POINT (-122.63999 45.6303)"}
+{"country":"USA","id":171.0,"latitude":35.1981,"longitude":-111.65051,"name":"Flagstaff","population":63993.0,"geometry":"POINT (-111.65051 35.1981)"}
+{"country":"USA","id":172.0,"latitude":32.205,"longitude":-110.88999,"name":"Tucson","population":823000.0,"geometry":"POINT (-110.88999 32.205)"}
+{"country":"USA","id":173.0,"latitude":34.43499,"longitude":-119.71999,"name":"Santa Barbara","population":181632.0,"geometry":"POINT (-119.71999 34.43499)"}
+{"country":"USA","id":174.0,"latitude":36.74772,"longitude":-119.77298,"name":"Fresno","population":616353.0,"geometry":"POINT (-119.77298 36.74772)"}
+{"country":"USA","id":175.0,"latitude":40.80222,"longitude":-124.1475,"name":"Eureka","population":42398.0,"geometry":"POINT (-124.1475 40.80222)"}
+{"country":"USA","id":176.0,"latitude":38.86296,"longitude":-104.79199,"name":"Colorado Springs","population":493654.0,"geometry":"POINT (-104.79199 38.86296)"}
+{"country":"USA","id":177.0,"latitude":39.52998,"longitude":-119.82001,"name":"Reno","population":328585.0,"geometry":"POINT (-119.82001 39.52998)"}
+{"country":"USA","id":178.0,"latitude":40.83251,"longitude":-115.76199,"name":"Elko","population":19252.0,"geometry":"POINT (-115.76199 40.83251)"}
+{"country":"USA","id":179.0,"latitude":35.10497,"longitude":-106.64133,"name":"Albuquerque","population":898642.0,"geometry":"POINT (-106.64133 35.10497)"}
+{"country":"USA","id":180.0,"latitude":44.92807,"longitude":-123.0239,"name":"Salem","population":229010.0,"geometry":"POINT (-123.0239 44.92807)"}
+{"country":"USA","id":181.0,"latitude":42.86662,"longitude":-106.31249,"name":"Casper","population":60791.0,"geometry":"POINT (-106.31249 42.86662)"}
+{"country":"USA","id":182.0,"latitude":39.05001,"longitude":-95.66998,"name":"Topeka","population":132091.0,"geometry":"POINT (-95.66998 39.05001)"}
+{"country":"USA","id":183.0,"latitude":39.10709,"longitude":-94.60409,"name":"Kansas City","population":1469000.0,"geometry":"POINT (-94.60409 39.10709)"}
+{"country":"USA","id":184.0,"latitude":36.12,"longitude":-95.93002,"name":"Tulsa","population":946962.0,"geometry":"POINT (-95.93002 36.12)"}
+{"country":"USA","id":185.0,"latitude":43.54999,"longitude":-96.73,"name":"Sioux Falls","population":155724.0,"geometry":"POINT (-96.73 43.54999)"}
+{"country":"USA","id":186.0,"latitude":32.50002,"longitude":-93.77002,"name":"Shreveport","population":248053.0,"geometry":"POINT (-93.77002 32.50002)"}
+{"country":"USA","id":187.0,"latitude":30.45795,"longitude":-91.14016,"name":"Baton Rouge","population":422072.0,"geometry":"POINT (-91.14016 30.45795)"}
+{"country":"USA","id":188.0,"latitude":32.73998,"longitude":-97.34004,"name":"Ft. Worth","population":1440454.0,"geometry":"POINT (-97.34004 32.73998)"}
+{"country":"USA","id":189.0,"latitude":27.74281,"longitude":-97.40189,"name":"Corpus Christi","population":277454.0,"geometry":"POINT (-97.40189 27.74281)"}
+{"country":"USA","id":190.0,"latitude":30.26695,"longitude":-97.74278,"name":"Austin","population":1161000.0,"geometry":"POINT (-97.74278 30.26695)"}
+{"country":"USA","id":191.0,"latitude":35.22998,"longitude":-101.83,"name":"Amarillo","population":181766.0,"geometry":"POINT (-101.83 35.22998)"}
+{"country":"USA","id":192.0,"latitude":31.77998,"longitude":-106.51,"name":"El Paso","population":753000.0,"geometry":"POINT (-106.51 31.77998)"}
+{"country":"USA","id":193.0,"latitude":27.50614,"longitude":-99.50722,"name":"Laredo","population":434768.0,"geometry":"POINT (-99.50722 27.50614)"}
+{"country":"USA","id":195.0,"latitude":44.4758,"longitude":-73.21247,"name":"Burlington","population":93807.0,"geometry":"POINT (-73.21247 44.4758)"}
+{"country":"USA","id":196.0,"latitude":32.3616,"longitude":-86.27919,"name":"Montgomery","population":198325.0,"geometry":"POINT (-86.27919 32.3616)"}
+{"country":"USA","id":197.0,"latitude":30.44999,"longitude":-84.28003,"name":"Tallahassee","population":221222.0,"geometry":"POINT (-84.28003 30.44999)"}
+{"country":"USA","id":198.0,"latitude":28.50998,"longitude":-81.38003,"name":"Orlando","population":1350000.0,"geometry":"POINT (-81.38003 28.50998)"}
+{"country":"USA","id":199.0,"latitude":30.33002,"longitude":-81.66999,"name":"Jacksonville","population":988000.0,"geometry":"POINT (-81.66999 30.33002)"}
+{"country":"USA","id":200.0,"latitude":32.02111,"longitude":-81.11,"name":"Savannah","population":180187.0,"geometry":"POINT (-81.11 32.02111)"}
+{"country":"USA","id":201.0,"latitude":34.03998,"longitude":-80.89998,"name":"Columbia","population":398093.0,"geometry":"POINT (-80.89998 34.03998)"}
+{"country":"USA","id":202.0,"latitude":39.74999,"longitude":-86.17005,"name":"Indianapolis","population":1436000.0,"geometry":"POINT (-86.17005 39.74999)"}
+{"country":"USA","id":203.0,"latitude":34.22552,"longitude":-77.94502,"name":"Wilmington","population":161560.0,"geometry":"POINT (-77.94502 34.22552)"}
+{"country":"USA","id":204.0,"latitude":35.97001,"longitude":-83.92003,"name":"Knoxville","population":655400.0,"geometry":"POINT (-83.92003 35.97001)"}
+{"country":"USA","id":205.0,"latitude":37.55002,"longitude":-77.44999,"name":"Richmond","population":912000.0,"geometry":"POINT (-77.44999 37.55002)"}
+{"country":"USA","id":206.0,"latitude":38.34974,"longitude":-81.63273,"name":"Charleston","population":123799.0,"geometry":"POINT (-81.63273 38.34974)"}
+{"country":"USA","id":207.0,"latitude":39.29999,"longitude":-76.61998,"name":"Baltimore","population":2255000.0,"geometry":"POINT (-76.61998 39.29999)"}
+{"country":"USA","id":208.0,"latitude":43.04999,"longitude":-76.15001,"name":"Syracuse","population":662577.0,"geometry":"POINT (-76.15001 43.04999)"}
+{"country":"USA","id":211.0,"latitude":44.31056,"longitude":-69.77999,"name":"Augusta","population":24042.0,"geometry":"POINT (-69.77999 44.31056)"}
+{"country":"USA","id":212.0,"latitude":46.49526,"longitude":-84.34528,"name":"Sault Ste. Marie","population":83805.0,"geometry":"POINT (-84.34528 46.49526)"}
+{"country":"USA","id":216.0,"latitude":57.0604,"longitude":-135.32755,"name":"Sitka","population":8931.0,"geometry":"POINT (-135.32755 57.0604)"}
+{"country":"USA","id":714.0,"latitude":-14.27661,"longitude":-170.70665,"name":"Pago Pago","population":12576.0,"geometry":"POINT (-170.70665 -14.27661)"}
+{"country":"USA","id":732.0,"latitude":46.59275,"longitude":-112.03529,"name":"Helena","population":38725.0,"geometry":"POINT (-112.03529 46.59275)"}
+{"country":"USA","id":733.0,"latitude":46.80832,"longitude":-100.78332,"name":"Bismarck","population":63871.0,"geometry":"POINT (-100.78332 46.80832)"}
+{"country":"USA","id":734.0,"latitude":43.60859,"longitude":-116.22749,"name":"Boise","population":338071.0,"geometry":"POINT (-116.22749 43.60859)"}
+{"country":"USA","id":735.0,"latitude":37.29998,"longitude":-121.84999,"name":"San Jose","population":1668000.0,"geometry":"POINT (-121.84999 37.29998)"}
+{"country":"USA","id":736.0,"latitude":38.57502,"longitude":-121.47004,"name":"Sacramento","population":1604000.0,"geometry":"POINT (-121.47004 38.57502)"}
+{"country":"USA","id":737.0,"latitude":36.21,"longitude":-115.22001,"name":"Las Vegas","population":1823000.0,"geometry":"POINT (-115.22001 36.21)"}
+{"country":"USA","id":738.0,"latitude":35.68693,"longitude":-105.93724,"name":"Santa Fe","population":92681.0,"geometry":"POINT (-105.93724 35.68693)"}
+{"country":"USA","id":739.0,"latitude":45.52002,"longitude":-122.67999,"name":"Portland","population":1875000.0,"geometry":"POINT (-122.67999 45.52002)"}
+{"country":"USA","id":740.0,"latitude":40.77502,"longitude":-111.93005,"name":"Salt Lake City","population":966000.0,"geometry":"POINT (-111.93005 40.77502)"}
+{"country":"USA","id":741.0,"latitude":41.14001,"longitude":-104.81971,"name":"Cheyenne","population":72927.0,"geometry":"POINT (-104.81971 41.14001)"}
+{"country":"USA","id":742.0,"latitude":41.57998,"longitude":-93.61998,"name":"Des Moines","population":380655.0,"geometry":"POINT (-93.61998 41.57998)"}
+{"country":"USA","id":743.0,"latitude":41.24,"longitude":-96.00999,"name":"Omaha","population":877110.0,"geometry":"POINT (-96.00999 41.24)"}
+{"country":"USA","id":744.0,"latitude":35.47004,"longitude":-97.51868,"name":"Oklahoma City","population":788000.0,"geometry":"POINT (-97.51868 35.47004)"}
+{"country":"USA","id":745.0,"latitude":44.36834,"longitude":-100.35055,"name":"Pierre","population":13879.0,"geometry":"POINT (-100.35055 44.36834)"}
+{"country":"USA","id":746.0,"latitude":29.48733,"longitude":-98.50731,"name":"San Antonio","population":1473000.0,"geometry":"POINT (-98.50731 29.48733)"}
+{"country":"USA","id":749.0,"latitude":32.29882,"longitude":-90.185,"name":"Jackson","population":250902.0,"geometry":"POINT (-90.185 32.29882)"}
+{"country":"USA","id":750.0,"latitude":35.81878,"longitude":-78.64469,"name":"Raleigh","population":1163515.0,"geometry":"POINT (-78.64469 35.81878)"}
+{"country":"USA","id":751.0,"latitude":41.46999,"longitude":-81.695,"name":"Cleveland","population":1890000.0,"geometry":"POINT (-81.695 41.46999)"}
+{"country":"USA","id":752.0,"latitude":39.16188,"longitude":-84.45692,"name":"Cincinnati","population":1636000.0,"geometry":"POINT (-84.45692 39.16188)"}
+{"country":"USA","id":753.0,"latitude":36.16997,"longitude":-86.77998,"name":"Nashville","population":877000.0,"geometry":"POINT (-86.77998 36.16997)"}
+{"country":"USA","id":754.0,"latitude":35.11999,"longitude":-90.0,"name":"Memphis","population":1081000.0,"geometry":"POINT (-90 35.11999)"}
+{"country":"USA","id":755.0,"latitude":36.84996,"longitude":-76.28001,"name":"Norfolk","population":1047869.0,"geometry":"POINT (-76.28001 36.84996)"}
+{"country":"USA","id":756.0,"latitude":43.05266,"longitude":-87.91997,"name":"Milwaukee","population":1388000.0,"geometry":"POINT (-87.91997 43.05266)"}
+{"country":"USA","id":757.0,"latitude":42.87998,"longitude":-78.88,"name":"Buffalo","population":1016000.0,"geometry":"POINT (-78.88 42.87998)"}
+{"country":"USA","id":758.0,"latitude":40.43,"longitude":-79.99999,"name":"Pittsburgh","population":1838000.0,"geometry":"POINT (-79.99999 40.43)"}
+{"country":"USA","id":762.0,"latitude":57.79,"longitude":-152.40699,"name":"Kodiak","population":9461.0,"geometry":"POINT (-152.40699 57.79)"}
+{"country":"USA","id":763.0,"latitude":55.2,"longitude":-162.71509,"name":"Cold Bay","population":200.0,"geometry":"POINT (-162.71509 55.2)"}
+{"country":"USA","id":764.0,"latitude":60.7933,"longitude":-161.7558,"name":"Bethel","population":6228.0,"geometry":"POINT (-161.7558 60.7933)"}
+{"country":"USA","id":765.0,"latitude":68.34773,"longitude":-166.80802,"name":"Point Hope","population":461.0,"geometry":"POINT (-166.80802 68.34773)"}
+{"country":"USA","id":766.0,"latitude":71.29057,"longitude":-156.78858,"name":"Barrow","population":4336.0,"geometry":"POINT (-156.78858 71.29057)"}
+{"country":"USA","id":767.0,"latitude":64.5061,"longitude":-165.40637,"name":"Nome","population":3485.0,"geometry":"POINT (-165.40637 64.5061)"}
+{"country":"USA","id":768.0,"latitude":61.136,"longitude":-146.34829,"name":"Valdez","population":4036.0,"geometry":"POINT (-146.34829 61.136)"}
+{"country":"USA","id":769.0,"latitude":58.31413,"longitude":-134.42,"name":"Juneau","population":30711.0,"geometry":"POINT (-134.42 58.31413)"}
+{"country":"USA","id":770.0,"latitude":64.83698,"longitude":-147.71066,"name":"Fairbanks","population":56993.0,"geometry":"POINT (-147.71066 64.83698)"}
+{"country":"USA","id":771.0,"latitude":70.29218,"longitude":-148.66936,"name":"Prudhoe Bay","population":2500.0,"geometry":"POINT (-148.66936 70.29218)"}
+{"country":"USA","id":1049.0,"latitude":18.44002,"longitude":-66.12998,"name":"San Juan","population":2478905.0,"geometry":"POINT (-66.12998 18.44002)"}
+{"country":"USA","id":1066.0,"latitude":44.97998,"longitude":-93.25179,"name":"Minneapolis","population":2616000.0,"geometry":"POINT (-93.25179 44.97998)"}
+{"country":"USA","id":1067.0,"latitude":21.30688,"longitude":-157.858,"name":"Honolulu","population":786000.0,"geometry":"POINT (-157.858 21.30688)"}
+{"country":"USA","id":1068.0,"latitude":47.57,"longitude":-122.33998,"name":"Seattle","population":3074000.0,"geometry":"POINT (-122.33998 47.57)"}
+{"country":"USA","id":1069.0,"latitude":33.53998,"longitude":-112.06999,"name":"Phoenix","population":3551000.0,"geometry":"POINT (-112.06999 33.53998)"}
+{"country":"USA","id":1070.0,"latitude":32.82002,"longitude":-117.17999,"name":"San Diego","population":2916000.0,"geometry":"POINT (-117.17999 32.82002)"}
+{"country":"USA","id":1071.0,"latitude":38.63502,"longitude":-90.23998,"name":"St. Louis","population":2199000.0,"geometry":"POINT (-90.23998 38.63502)"}
+{"country":"USA","id":1072.0,"latitude":29.995,"longitude":-90.03997,"name":"New Orleans","population":785000.0,"geometry":"POINT (-90.03997 29.995)"}
+{"country":"USA","id":1073.0,"latitude":32.82002,"longitude":-96.84002,"name":"Dallas","population":4798000.0,"geometry":"POINT (-96.84002 32.82002)"}
+{"country":"USA","id":1075.0,"latitude":42.32996,"longitude":-71.07001,"name":"Boston","population":4467000.0,"geometry":"POINT (-71.07001 42.32996)"}
+{"country":"USA","id":1076.0,"latitude":27.94699,"longitude":-82.45862,"name":"Tampa","population":2314000.0,"geometry":"POINT (-82.45862 27.94699)"}
+{"country":"USA","id":1077.0,"latitude":39.99997,"longitude":-75.17,"name":"Philadelphia","population":5492000.0,"geometry":"POINT (-75.17 39.99997)"}
+{"country":"USA","id":1078.0,"latitude":42.32996,"longitude":-83.08006,"name":"Detroit","population":4101000.0,"geometry":"POINT (-83.08006 42.32996)"}
+{"country":"USA","id":1079.0,"latitude":61.21997,"longitude":-149.90021,"name":"Anchorage","population":260283.0,"geometry":"POINT (-149.90021 61.21997)"}
+{"country":"USA","id":1182.0,"latitude":37.74001,"longitude":-122.45998,"name":"San Francisco","population":3450000.0,"geometry":"POINT (-122.45998 37.74001)"}
+{"country":"USA","id":1183.0,"latitude":39.73919,"longitude":-104.98402,"name":"Denver","population":2313000.0,"geometry":"POINT (-104.98402 39.73919)"}
+{"country":"USA","id":1184.0,"latitude":29.81997,"longitude":-95.33998,"name":"Houston","population":4459000.0,"geometry":"POINT (-95.33998 29.81997)"}
+{"country":"USA","id":1185.0,"latitude":25.78761,"longitude":-80.22411,"name":"Miami","population":5585000.0,"geometry":"POINT (-80.22411 25.78761)"}
+{"country":"USA","id":1186.0,"latitude":33.83001,"longitude":-84.39995,"name":"Atlanta","population":4506000.0,"geometry":"POINT (-84.39995 33.83001)"}
+{"country":"USA","id":1187.0,"latitude":41.82999,"longitude":-87.75005,"name":"Chicago","population":8990000.0,"geometry":"POINT (-87.75005 41.82999)"}
+{"country":"USA","id":1223.0,"latitude":33.98998,"longitude":-118.17998,"name":"Los Angeles","population":12500000.0,"geometry":"POINT (-118.17998 33.98998)"}
+{"country":"USA","id":1224.0,"latitude":38.89955,"longitude":-77.00942,"name":"Washington D.C.","population":4338000.0,"geometry":"POINT (-77.00942 38.89955)"}
+{"country":"USA","id":1225.0,"latitude":40.74998,"longitude":-73.98002,"name":"New York","population":19040000.0,"geometry":"POINT (-73.98002 40.74998)"}
