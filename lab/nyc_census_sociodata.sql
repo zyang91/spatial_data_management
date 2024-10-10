@@ -16,7 +16,7 @@ SET default_tablespace = '';
 SET default_with_oids = false;
 
 --
--- Name: nyc_census_sociodata; Type: TABLE; Schema: public; Owner: pramsey; Tablespace: 
+-- Name: nyc_census_sociodata; Type: TABLE; Schema: public; Owner: pramsey; Tablespace:
 --
 
 CREATE TABLE nyc_census_sociodata (
